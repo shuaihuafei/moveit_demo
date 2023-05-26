@@ -1,0 +1,8 @@
+prefix=/home/shuai/Moveit/devel
+
+Name: marm_moveit_franka
+Description: Description of marm_moveit_franka
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

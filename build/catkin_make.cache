@@ -1,2 +1,2 @@
-
+marm_description:marm_gazebo:marm_moveit_config:marm_moveit_franka:marm_planning
 -DCATKIN_DEVEL_PREFIX=/home/shuai/Moveit/devel -DCMAKE_INSTALL_PREFIX=/home/shuai/Moveit/install -G Unix Makefiles
